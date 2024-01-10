@@ -8,6 +8,20 @@
       "when": 1704901228917,
       "tag": "0000_productive_thundra",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1704910618216,
+      "tag": "0001_lonely_raider",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1704911488889,
+      "tag": "0002_clammy_ghost_rider",
+      "breakpoints": true
     }
   ]
 }
